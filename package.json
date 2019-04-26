@@ -1,0 +1,12 @@
+{
+  "name": "typescript_lesson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nasu-stanfoot/typescript_lesson.git",
+  "author": "nasu-stanfoot <nasu@stanfoot.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^11.13.7",
+    "typescript": "^3.4.5"
+  }
+}
